@@ -1,0 +1,22 @@
+{
+  "name": "trentose2jan12-prova",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnricoDonatoni/trentose2jan12-prova.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EnricoDonatoni/trentose2jan12-prova/issues"
+  },
+  "homepage": "https://github.com/EnricoDonatoni/trentose2jan12-prova#readme",
+  "devDependencies": {
+    "jest": "^22.1.4"
+  }
+}
