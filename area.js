@@ -12,7 +12,7 @@ exports.getArea = function(lati){
 					errore=1;
 				}
 				else{
-					if(lati[i]<=0){
+					if(lati[i]<0){
 						errore=1;
 					}
 
